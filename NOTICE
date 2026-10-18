@@ -1,0 +1,33 @@
+FlawGlyph — source-only research snapshot
+
+To the extent Ahmad Sajjad Siddiqui owns or is authorised to license the
+relevant rights in the first-party source and documentation in this snapshot,
+those contributions are licensed under the Apache License, Version 2.0.
+See LICENSE for the unmodified terms. Copyright 2026 Ahmad Sajjad Siddiqui
+applies only to those contributions.
+
+This grant does not relicense third-party material. Preserve every applicable
+third-party licence, copyright notice, attribution, exception and
+contribution-specific term. No rights in models, pretrained weights, datasets,
+scientific outputs, third-party marks or other excluded artifacts are granted.
+
+FlawGlyph is a provisional presentation name for the historical VisionGuard
+development project. Historical package, module, command and API identifiers
+remain for compatibility and traceability.
+
+Development used AI assistance. This notice does not establish that every line
+is copyright protected, independently original or owned by the named licensor.
+Git author/committer metadata and project direction do not establish line-level
+creative authorship. A qualified grant cannot supply a missing permission.
+
+Third-party terms and attribution remain separate. See THIRD-PARTY-NOTICES.md,
+metadata/license-texts and supplemental-license-texts. The retained historical
+dependency inventory describes separately installed reference dependencies;
+their implementation code and binaries are not bundled here.
+
+No models, pretrained weights, datasets, scientific outputs, private evidence,
+credentials, permissions or runtime/browser binaries are included. This snapshot
+creates no trained-access authority, deployment approval or model-distribution
+permission.
+
+Held-out VisA evaluation with historical access independence unverified.
